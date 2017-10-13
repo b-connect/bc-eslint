@@ -1,0 +1,23 @@
+{
+  "name": "bc-eslint",
+  "version": "1.0.0",
+  "description": "Standard configuration for eslint.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/b-connect/bc-eslint.git"
+  },
+  "keywords": [
+    "nodejs",
+    "eslint"
+  ],
+  "author": "Erik Seifert <erik.seifert@b-connect.de>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/b-connect/bc-eslint/issues"
+  },
+  "homepage": "https://github.com/b-connect/bc-eslint#readme"
+}
