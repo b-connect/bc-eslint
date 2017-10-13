@@ -20,7 +20,7 @@
     "url": "https://github.com/b-connect/bc-eslint/issues"
   },
   "homepage": "https://github.com/b-connect/bc-eslint#readme",
-  "devDependencies": {
-    "eslint-config-defaults": "^9.0.0"
+  "dependencies": {
+    "eslint-config-airbnb": "^16.0.0"
   }
 }
