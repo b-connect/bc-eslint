@@ -1,5 +1,5 @@
 {
-  "name": "bc-eslint",
+  "name": "eslint-config-bc-default",
   "version": "1.0.1",
   "description": "Standard configuration for eslint.",
   "main": "index.js",
